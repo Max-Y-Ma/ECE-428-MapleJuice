@@ -1,0 +1,471 @@
+2023/11/10 10:01:11 - INFO - Starting
+2023/11/10 10:01:11 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:01:11 - INFO - concurrency model: async
+2023/11/10 10:01:11 - INFO - masquerade (NAT) address: None
+2023/11/10 10:01:11 - INFO - passive ports: None
+2023/11/10 10:01:11 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:01:11 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:01:11 - DEBUG - use sendfile(2): True
+2023/11/10 10:01:11 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:01:11 - DEBUG - max connections: 256
+2023/11/10 10:01:11 - DEBUG - max connections per ip: 5
+2023/11/10 10:01:11 - DEBUG - timeout: 300
+2023/11/10 10:01:11 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:01:11 - DEBUG - max login attempts: 3
+2023/11/10 10:01:11 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=177786 <<<
+2023/11/10 10:01:12 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:01:12 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:03:32 - INFO - Starting
+2023/11/10 10:03:32 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:03:32 - INFO - concurrency model: async
+2023/11/10 10:03:32 - INFO - masquerade (NAT) address: None
+2023/11/10 10:03:32 - INFO - passive ports: None
+2023/11/10 10:03:32 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:03:32 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:03:32 - DEBUG - use sendfile(2): True
+2023/11/10 10:03:32 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:03:32 - DEBUG - max connections: 256
+2023/11/10 10:03:32 - DEBUG - max connections per ip: 5
+2023/11/10 10:03:32 - DEBUG - timeout: 300
+2023/11/10 10:03:32 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:03:32 - DEBUG - max login attempts: 3
+2023/11/10 10:03:32 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=178090 <<<
+2023/11/10 10:03:33 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:03:33 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:03:36 - INFO - [INFO]  -  Gracefully terminating FTP server!
+2023/11/10 10:03:36 - INFO - received interrupt signal
+2023/11/10 10:03:40 - INFO - Starting
+2023/11/10 10:03:40 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:03:40 - INFO - concurrency model: async
+2023/11/10 10:03:40 - INFO - masquerade (NAT) address: None
+2023/11/10 10:03:40 - INFO - passive ports: None
+2023/11/10 10:03:40 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:03:40 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:03:40 - DEBUG - use sendfile(2): True
+2023/11/10 10:03:40 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:03:40 - DEBUG - max connections: 256
+2023/11/10 10:03:40 - DEBUG - max connections per ip: 5
+2023/11/10 10:03:40 - DEBUG - timeout: 300
+2023/11/10 10:03:40 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:03:40 - DEBUG - max login attempts: 3
+2023/11/10 10:03:40 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=178141 <<<
+2023/11/10 10:03:41 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:03:41 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:04:14 - INFO - Starting
+2023/11/10 10:04:14 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:04:14 - INFO - concurrency model: async
+2023/11/10 10:04:14 - INFO - masquerade (NAT) address: None
+2023/11/10 10:04:14 - INFO - passive ports: None
+2023/11/10 10:04:14 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:04:14 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:04:14 - DEBUG - use sendfile(2): True
+2023/11/10 10:04:14 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:04:14 - DEBUG - max connections: 256
+2023/11/10 10:04:14 - DEBUG - max connections per ip: 5
+2023/11/10 10:04:14 - DEBUG - timeout: 300
+2023/11/10 10:04:14 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:04:14 - DEBUG - max login attempts: 3
+2023/11/10 10:04:14 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=178268 <<<
+2023/11/10 10:04:15 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:04:15 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:04:16 - INFO - received interrupt signal
+2023/11/10 10:04:16 - INFO - [INFO]  -  Gracefully terminating FTP server!
+2023/11/10 10:04:16 - INFO - >>> shutting down FTP server, 1 socket(s), pid=178268 <<<
+2023/11/10 10:04:26 - INFO - Starting
+2023/11/10 10:04:26 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:04:26 - INFO - concurrency model: async
+2023/11/10 10:04:26 - INFO - masquerade (NAT) address: None
+2023/11/10 10:04:26 - INFO - passive ports: None
+2023/11/10 10:04:26 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:04:26 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:04:26 - DEBUG - use sendfile(2): True
+2023/11/10 10:04:26 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:04:26 - DEBUG - max connections: 256
+2023/11/10 10:04:26 - DEBUG - max connections per ip: 5
+2023/11/10 10:04:26 - DEBUG - timeout: 300
+2023/11/10 10:04:26 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:04:26 - DEBUG - max login attempts: 3
+2023/11/10 10:04:26 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=178333 <<<
+2023/11/10 10:04:27 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:04:27 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:04:28 - INFO - received interrupt signal
+2023/11/10 10:04:28 - INFO - [INFO]  -  Gracefully terminating FTP server!
+2023/11/10 10:04:28 - INFO - >>> shutting down FTP server, 1 socket(s), pid=178333 <<<
+2023/11/10 10:04:48 - INFO - Starting
+2023/11/10 10:04:48 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:04:48 - INFO - concurrency model: async
+2023/11/10 10:04:48 - INFO - masquerade (NAT) address: None
+2023/11/10 10:04:48 - INFO - passive ports: None
+2023/11/10 10:04:48 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:04:48 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:04:48 - DEBUG - use sendfile(2): True
+2023/11/10 10:04:48 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:04:48 - DEBUG - max connections: 256
+2023/11/10 10:04:48 - DEBUG - max connections per ip: 5
+2023/11/10 10:04:48 - DEBUG - timeout: 300
+2023/11/10 10:04:48 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:04:48 - DEBUG - max login attempts: 3
+2023/11/10 10:04:48 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=178417 <<<
+2023/11/10 10:04:49 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:04:49 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:04:52 - INFO - received interrupt signal
+2023/11/10 10:04:52 - INFO - [INFO]  -  Gracefully terminating FTP server!
+2023/11/10 10:05:39 - INFO - Starting
+2023/11/10 10:05:39 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:05:39 - INFO - concurrency model: async
+2023/11/10 10:05:39 - INFO - masquerade (NAT) address: None
+2023/11/10 10:05:39 - INFO - passive ports: None
+2023/11/10 10:05:39 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:05:39 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:05:39 - DEBUG - use sendfile(2): True
+2023/11/10 10:05:39 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:05:39 - DEBUG - max connections: 256
+2023/11/10 10:05:39 - DEBUG - max connections per ip: 5
+2023/11/10 10:05:39 - DEBUG - timeout: 300
+2023/11/10 10:05:39 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:05:39 - DEBUG - max login attempts: 3
+2023/11/10 10:05:39 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=178566 <<<
+2023/11/10 10:05:40 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:05:58 - INFO - Starting
+2023/11/10 10:05:58 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:05:58 - INFO - concurrency model: async
+2023/11/10 10:05:58 - INFO - masquerade (NAT) address: None
+2023/11/10 10:05:58 - INFO - passive ports: None
+2023/11/10 10:05:58 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:05:58 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:05:58 - DEBUG - use sendfile(2): True
+2023/11/10 10:05:58 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:05:58 - DEBUG - max connections: 256
+2023/11/10 10:05:58 - DEBUG - max connections per ip: 5
+2023/11/10 10:05:58 - DEBUG - timeout: 300
+2023/11/10 10:05:58 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:05:58 - DEBUG - max login attempts: 3
+2023/11/10 10:05:58 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=178697 <<<
+2023/11/10 10:05:59 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:05:59 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:06:03 - INFO - received interrupt signal
+2023/11/10 10:06:03 - INFO - [INFO]  -  Gracefully terminating FTP server!
+2023/11/10 10:06:16 - INFO - Starting
+2023/11/10 10:06:16 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:06:16 - INFO - concurrency model: async
+2023/11/10 10:06:16 - INFO - masquerade (NAT) address: None
+2023/11/10 10:06:16 - INFO - passive ports: None
+2023/11/10 10:06:16 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:06:16 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:06:16 - DEBUG - use sendfile(2): True
+2023/11/10 10:06:16 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:06:16 - DEBUG - max connections: 256
+2023/11/10 10:06:16 - DEBUG - max connections per ip: 5
+2023/11/10 10:06:16 - DEBUG - timeout: 300
+2023/11/10 10:06:16 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:06:16 - DEBUG - max login attempts: 3
+2023/11/10 10:06:16 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=179586 <<<
+2023/11/10 10:06:17 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:06:17 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:06:41 - INFO - Starting
+2023/11/10 10:06:41 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:06:41 - INFO - concurrency model: async
+2023/11/10 10:06:41 - INFO - masquerade (NAT) address: None
+2023/11/10 10:06:41 - INFO - passive ports: None
+2023/11/10 10:06:41 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:06:41 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:06:41 - DEBUG - use sendfile(2): True
+2023/11/10 10:06:41 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:06:41 - DEBUG - max connections: 256
+2023/11/10 10:06:41 - DEBUG - max connections per ip: 5
+2023/11/10 10:06:41 - DEBUG - timeout: 300
+2023/11/10 10:06:41 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:06:41 - DEBUG - max login attempts: 3
+2023/11/10 10:06:41 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=179839 <<<
+2023/11/10 10:06:42 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:06:42 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:07:09 - INFO - Starting
+2023/11/10 10:07:09 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:07:09 - INFO - concurrency model: async
+2023/11/10 10:07:09 - INFO - masquerade (NAT) address: None
+2023/11/10 10:07:09 - INFO - passive ports: None
+2023/11/10 10:07:09 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:07:09 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:07:09 - DEBUG - use sendfile(2): True
+2023/11/10 10:07:09 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:07:09 - DEBUG - max connections: 256
+2023/11/10 10:07:09 - DEBUG - max connections per ip: 5
+2023/11/10 10:07:09 - DEBUG - timeout: 300
+2023/11/10 10:07:09 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:07:09 - DEBUG - max login attempts: 3
+2023/11/10 10:07:09 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=179951 <<<
+2023/11/10 10:07:10 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:07:10 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:07:20 - INFO - Starting
+2023/11/10 10:07:20 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:07:20 - INFO - concurrency model: async
+2023/11/10 10:07:20 - INFO - masquerade (NAT) address: None
+2023/11/10 10:07:20 - INFO - passive ports: None
+2023/11/10 10:07:20 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:07:20 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:07:20 - DEBUG - use sendfile(2): True
+2023/11/10 10:07:20 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:07:20 - DEBUG - max connections: 256
+2023/11/10 10:07:20 - DEBUG - max connections per ip: 5
+2023/11/10 10:07:20 - DEBUG - timeout: 300
+2023/11/10 10:07:20 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:07:20 - DEBUG - max login attempts: 3
+2023/11/10 10:07:20 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=180012 <<<
+2023/11/10 10:07:21 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:07:46 - INFO - Starting
+2023/11/10 10:07:46 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:07:46 - INFO - concurrency model: async
+2023/11/10 10:07:46 - INFO - masquerade (NAT) address: None
+2023/11/10 10:07:46 - INFO - passive ports: None
+2023/11/10 10:07:46 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:07:46 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:07:46 - DEBUG - use sendfile(2): True
+2023/11/10 10:07:46 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:07:46 - DEBUG - max connections: 256
+2023/11/10 10:07:46 - DEBUG - max connections per ip: 5
+2023/11/10 10:07:46 - DEBUG - timeout: 300
+2023/11/10 10:07:46 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:07:46 - DEBUG - max login attempts: 3
+2023/11/10 10:07:46 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=180083 <<<
+2023/11/10 10:07:47 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:07:47 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:08:55 - INFO - Starting
+2023/11/10 10:08:55 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:08:55 - INFO - concurrency model: async
+2023/11/10 10:08:55 - INFO - masquerade (NAT) address: None
+2023/11/10 10:08:55 - INFO - passive ports: None
+2023/11/10 10:08:55 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:08:55 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:08:55 - DEBUG - use sendfile(2): True
+2023/11/10 10:08:55 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:08:55 - DEBUG - max connections: 256
+2023/11/10 10:08:55 - DEBUG - max connections per ip: 5
+2023/11/10 10:08:55 - DEBUG - timeout: 300
+2023/11/10 10:08:55 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:08:55 - DEBUG - max login attempts: 3
+2023/11/10 10:08:55 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=180285 <<<
+2023/11/10 10:08:56 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:08:56 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:08:57 - INFO - received interrupt signal
+2023/11/10 10:08:57 - INFO - [INFO]  -  Gracefully terminating FTP server!
+2023/11/10 10:10:12 - INFO - Starting
+2023/11/10 10:10:12 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:10:12 - INFO - concurrency model: async
+2023/11/10 10:10:12 - INFO - masquerade (NAT) address: None
+2023/11/10 10:10:12 - INFO - passive ports: None
+2023/11/10 10:10:12 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:10:12 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:10:12 - DEBUG - use sendfile(2): True
+2023/11/10 10:10:12 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:10:12 - DEBUG - max connections: 256
+2023/11/10 10:10:12 - DEBUG - max connections per ip: 5
+2023/11/10 10:10:12 - DEBUG - timeout: 300
+2023/11/10 10:10:12 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:10:12 - DEBUG - max login attempts: 3
+2023/11/10 10:10:12 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=180498 <<<
+2023/11/10 10:10:13 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:10:37 - INFO - Starting
+2023/11/10 10:10:37 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:10:37 - INFO - concurrency model: async
+2023/11/10 10:10:37 - INFO - masquerade (NAT) address: None
+2023/11/10 10:10:37 - INFO - passive ports: None
+2023/11/10 10:10:37 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:10:37 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:10:37 - DEBUG - use sendfile(2): True
+2023/11/10 10:10:37 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:10:37 - DEBUG - max connections: 256
+2023/11/10 10:10:37 - DEBUG - max connections per ip: 5
+2023/11/10 10:10:37 - DEBUG - timeout: 300
+2023/11/10 10:10:37 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:10:37 - DEBUG - max login attempts: 3
+2023/11/10 10:10:37 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=180573 <<<
+2023/11/10 10:10:38 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:10:45 - INFO - Starting
+2023/11/10 10:10:45 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:10:45 - INFO - concurrency model: async
+2023/11/10 10:10:45 - INFO - masquerade (NAT) address: None
+2023/11/10 10:10:45 - INFO - passive ports: None
+2023/11/10 10:10:45 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:10:45 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:10:45 - DEBUG - use sendfile(2): True
+2023/11/10 10:10:45 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:10:45 - DEBUG - max connections: 256
+2023/11/10 10:10:45 - DEBUG - max connections per ip: 5
+2023/11/10 10:10:45 - DEBUG - timeout: 300
+2023/11/10 10:10:45 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:10:45 - DEBUG - max login attempts: 3
+2023/11/10 10:10:45 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=180623 <<<
+2023/11/10 10:10:46 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:10:46 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:10:47 - INFO - received interrupt signal
+2023/11/10 10:10:47 - INFO - [INFO]  -  Gracefully terminating FTP server!
+2023/11/10 10:14:36 - INFO - Starting
+2023/11/10 10:14:36 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:14:36 - INFO - concurrency model: async
+2023/11/10 10:14:36 - INFO - masquerade (NAT) address: None
+2023/11/10 10:14:36 - INFO - passive ports: None
+2023/11/10 10:14:36 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:14:36 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:14:36 - DEBUG - use sendfile(2): True
+2023/11/10 10:14:36 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:14:36 - DEBUG - max connections: 256
+2023/11/10 10:14:36 - DEBUG - max connections per ip: 5
+2023/11/10 10:14:36 - DEBUG - timeout: 300
+2023/11/10 10:14:36 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:14:36 - DEBUG - max login attempts: 3
+2023/11/10 10:14:36 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=181114 <<<
+2023/11/10 10:14:37 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:14:37 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:14:59 - INFO - Starting
+2023/11/10 10:14:59 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:14:59 - INFO - concurrency model: async
+2023/11/10 10:14:59 - INFO - masquerade (NAT) address: None
+2023/11/10 10:14:59 - INFO - passive ports: None
+2023/11/10 10:14:59 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:14:59 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:14:59 - DEBUG - use sendfile(2): True
+2023/11/10 10:14:59 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:14:59 - DEBUG - max connections: 256
+2023/11/10 10:14:59 - DEBUG - max connections per ip: 5
+2023/11/10 10:14:59 - DEBUG - timeout: 300
+2023/11/10 10:14:59 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:14:59 - DEBUG - max login attempts: 3
+2023/11/10 10:14:59 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=181226 <<<
+2023/11/10 10:15:00 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:15:00 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:15:56 - INFO - Starting
+2023/11/10 10:15:56 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:15:56 - INFO - concurrency model: async
+2023/11/10 10:15:56 - INFO - masquerade (NAT) address: None
+2023/11/10 10:15:56 - INFO - passive ports: None
+2023/11/10 10:15:56 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:15:56 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:15:56 - DEBUG - use sendfile(2): True
+2023/11/10 10:15:56 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:15:56 - DEBUG - max connections: 256
+2023/11/10 10:15:56 - DEBUG - max connections per ip: 5
+2023/11/10 10:15:56 - DEBUG - timeout: 300
+2023/11/10 10:15:56 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:15:56 - DEBUG - max login attempts: 3
+2023/11/10 10:15:56 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=181379 <<<
+2023/11/10 10:15:57 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:22:23 - INFO - Starting
+2023/11/10 10:22:28 - INFO - Starting
+2023/11/10 10:22:28 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:22:28 - INFO - concurrency model: async
+2023/11/10 10:22:28 - INFO - masquerade (NAT) address: None
+2023/11/10 10:22:28 - INFO - passive ports: None
+2023/11/10 10:22:28 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:22:28 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:22:28 - DEBUG - use sendfile(2): True
+2023/11/10 10:22:28 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:22:28 - DEBUG - max connections: 256
+2023/11/10 10:22:28 - DEBUG - max connections per ip: 5
+2023/11/10 10:22:28 - DEBUG - timeout: 300
+2023/11/10 10:22:28 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:22:28 - DEBUG - max login attempts: 3
+2023/11/10 10:22:28 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=183232 <<<
+2023/11/10 10:22:29 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:24:03 - INFO - Starting
+2023/11/10 10:24:03 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:24:03 - INFO - concurrency model: async
+2023/11/10 10:24:03 - INFO - masquerade (NAT) address: None
+2023/11/10 10:24:03 - INFO - passive ports: None
+2023/11/10 10:24:03 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:24:03 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:24:03 - DEBUG - use sendfile(2): True
+2023/11/10 10:24:03 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:24:03 - DEBUG - max connections: 256
+2023/11/10 10:24:03 - DEBUG - max connections per ip: 5
+2023/11/10 10:24:03 - DEBUG - timeout: 300
+2023/11/10 10:24:03 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:24:03 - DEBUG - max login attempts: 3
+2023/11/10 10:24:03 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=183451 <<<
+2023/11/10 10:24:04 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:24:13 - INFO - Starting
+2023/11/10 10:24:13 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:24:13 - INFO - concurrency model: async
+2023/11/10 10:24:13 - INFO - masquerade (NAT) address: None
+2023/11/10 10:24:13 - INFO - passive ports: None
+2023/11/10 10:24:13 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:24:13 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:24:13 - DEBUG - use sendfile(2): True
+2023/11/10 10:24:13 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:24:13 - DEBUG - max connections: 256
+2023/11/10 10:24:13 - DEBUG - max connections per ip: 5
+2023/11/10 10:24:13 - DEBUG - timeout: 300
+2023/11/10 10:24:13 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:24:13 - DEBUG - max login attempts: 3
+2023/11/10 10:24:13 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=183502 <<<
+2023/11/10 10:24:14 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:25:36 - INFO - Starting
+2023/11/10 10:25:44 - INFO - Starting
+2023/11/10 10:25:44 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:25:44 - INFO - concurrency model: async
+2023/11/10 10:25:44 - INFO - masquerade (NAT) address: None
+2023/11/10 10:25:44 - INFO - passive ports: None
+2023/11/10 10:25:44 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:25:44 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:25:44 - DEBUG - use sendfile(2): True
+2023/11/10 10:25:44 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:25:44 - DEBUG - max connections: 256
+2023/11/10 10:25:44 - DEBUG - max connections per ip: 5
+2023/11/10 10:25:44 - DEBUG - timeout: 300
+2023/11/10 10:25:44 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:25:44 - DEBUG - max login attempts: 3
+2023/11/10 10:25:44 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=183741 <<<
+2023/11/10 10:25:45 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:25:45 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:26:47 - INFO - Starting
+2023/11/10 10:26:47 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:26:47 - INFO - concurrency model: async
+2023/11/10 10:26:47 - INFO - masquerade (NAT) address: None
+2023/11/10 10:26:47 - INFO - passive ports: None
+2023/11/10 10:26:47 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:26:47 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:26:47 - DEBUG - use sendfile(2): True
+2023/11/10 10:26:47 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:26:47 - DEBUG - max connections: 256
+2023/11/10 10:26:47 - DEBUG - max connections per ip: 5
+2023/11/10 10:26:47 - DEBUG - timeout: 300
+2023/11/10 10:26:47 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:26:47 - DEBUG - max login attempts: 3
+2023/11/10 10:26:47 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=183915 <<<
+2023/11/10 10:26:48 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:26:48 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:26:49 - INFO - received interrupt signal
+2023/11/10 10:26:49 - INFO - [INFO]  -  Gracefully terminating FTP server!
+2023/11/10 10:26:49 - INFO - >>> shutting down FTP server, 1 socket(s), pid=183915 <<<
+2023/11/10 10:28:01 - INFO - Starting
+2023/11/10 10:28:01 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:28:01 - INFO - concurrency model: async
+2023/11/10 10:28:01 - INFO - masquerade (NAT) address: None
+2023/11/10 10:28:01 - INFO - passive ports: None
+2023/11/10 10:28:01 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:28:01 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:28:01 - DEBUG - use sendfile(2): True
+2023/11/10 10:28:01 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:28:01 - DEBUG - max connections: 256
+2023/11/10 10:28:01 - DEBUG - max connections per ip: 5
+2023/11/10 10:28:01 - DEBUG - timeout: 300
+2023/11/10 10:28:01 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:28:01 - DEBUG - max login attempts: 3
+2023/11/10 10:28:01 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=184097 <<<
+2023/11/10 10:28:02 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:28:02 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000
+2023/11/10 10:29:19 - INFO - [INFO]  -  FTP server is listening on linux-ssh-03.ews.illinois.edu:18251
+2023/11/10 10:29:19 - INFO - concurrency model: async
+2023/11/10 10:29:19 - INFO - masquerade (NAT) address: None
+2023/11/10 10:29:19 - INFO - passive ports: None
+2023/11/10 10:29:19 - DEBUG - poller: 'pyftpdlib.ioloop.Epoll'
+2023/11/10 10:29:19 - DEBUG - authorizer: 'pyftpdlib.authorizers.DummyAuthorizer'
+2023/11/10 10:29:19 - DEBUG - use sendfile(2): True
+2023/11/10 10:29:19 - DEBUG - handler: 'pyftpdlib.handlers.type'
+2023/11/10 10:29:19 - DEBUG - max connections: 256
+2023/11/10 10:29:19 - DEBUG - max connections per ip: 5
+2023/11/10 10:29:19 - DEBUG - timeout: 300
+2023/11/10 10:29:19 - DEBUG - banner: 'pyftpdlib 1.5.8 ready.'
+2023/11/10 10:29:19 - DEBUG - max login attempts: 3
+2023/11/10 10:29:19 - INFO - >>> starting FTP server on 192.17.9.164:18251, pid=184304 <<<
+2023/11/10 10:29:20 - INFO - [STATUS]  -  Leader Election!
+2023/11/10 10:29:20 - INFO - [INFO]  -  Comms server is listening on linux-ssh-03.ews.illinois.edu:19000

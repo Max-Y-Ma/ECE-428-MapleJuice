@@ -1,0 +1,17 @@
+10KB: head -c 10KiB /dev/urandom > 10KiB.txt
+
+100KB: head -c 100KiB /dev/urandom > 100KiB.txt
+
+1MB: head -c 1MiB /dev/urandom > 1MiB.txt
+
+10MB: head -c 10MiB /dev/urandom > 10MiB.txt
+
+25MB: head -c 25MiB /dev/urandom > 25MiB.txt
+
+100MB: head -c 100MiB /dev/urandom > 100MiB.txt
+
+500MB: head -c 500MiB /dev/urandom > 500MiB.txt
+
+Wiki: https://www.cs.upc.edu/~nlp/wikicorpus/raw.en.tgz
+
+30seconds: 
